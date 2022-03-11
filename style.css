@@ -1,14 +1,16 @@
-
-
 div {
-    color: white;
-    background-color: black;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
 }
 
 p {
-    color:rgb(84, 230, 108);
+    color:rgb(6, 136, 45);
 }
 
-ul {
-    list-style-image: url('star.png')
+.alert-text {
+    color: rgb(255, 0, 0);
+}
+
+.green {
+    color:green;
 }
